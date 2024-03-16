@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "501571379608",
+    "firebase_url": "https://hmchat-62f08-default-rtdb.firebaseio.com",
+    "project_id": "hmchat-62f08",
+    "storage_bucket": "hmchat-62f08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501571379608:android:aab950a63c24c0bd7e4bed",
+        "android_client_info": {
+          "package_name": "com.androidproje.mhchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzs66qzjRJvBBscGdGOKamVVhAgO8e15o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
